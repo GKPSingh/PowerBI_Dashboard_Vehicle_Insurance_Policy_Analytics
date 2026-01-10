@@ -11,7 +11,7 @@ Understand policy holder distribution
 
 Identify risk and profitability trends
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 Analyze insurance premiums and claims
 
@@ -23,7 +23,7 @@ Enable interactive filtering and drill-downs
 
 Present data in an accessible and portfolio-ready format
 
-## 📁 File Details
+### 📁 File Details
 
 Tool Used: Microsoft Power BI Desktop
 
@@ -39,7 +39,7 @@ Duplicate Report Page (layout or comparison)
 
 Tooltip Page for enhanced interactivity
 
-## 📌 Key KPIs
+### 📌 Key KPIs
 
 The dashboard highlights the following core metrics:
 
@@ -53,7 +53,7 @@ Premium-to-Claim Ratio – Indicator of profitability and risk
 
 These KPIs provide an instant snapshot of insurance performance.
 
-## 📊 Visualizations Included
+### 📊 Visualizations Included
 
 KPI Cards for headline metrics
 
@@ -65,7 +65,7 @@ Tooltip-enabled visuals for contextual insights
 
 Consistent icons and images for better UX
 
-## 🧠 Data Model & Logic (High-Level)
+### 🧠 Data Model & Logic (High-Level)
 
 Data is modeled to support aggregations and comparisons
 
@@ -76,3 +76,25 @@ Averages (Premium, Claim)
 Ratios and performance indicators
 
 Filters and slicers allow users to interact dynamically with the data
+
+### 💡 Business Use Cases
+
+Insurance performance monitoring
+
+Risk and profitability analysis
+
+Management reporting
+
+Data-driven decision-making
+
+### 🚀 Skills Demonstrated
+
+Power BI report development
+
+Data modeling and relationships
+
+DAX calculations
+
+KPI design and storytelling
+
+Dashboard UX/UI best practices
