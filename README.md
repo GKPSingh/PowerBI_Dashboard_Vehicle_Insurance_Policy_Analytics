@@ -27,7 +27,7 @@ Present data in an accessible and portfolio-ready format
 
 Tool Used: Microsoft Power BI Desktop
 
-File Name: Insurance_Policy.pbix
+File Name: Vehicle_Insurance_Policy_Dashboard.pbix
 
 Theme: AccessibleCityPark
 
