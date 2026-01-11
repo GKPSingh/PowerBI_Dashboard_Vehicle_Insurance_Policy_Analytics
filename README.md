@@ -5,6 +5,9 @@ The analysis of EIC's financial performance from 2014 to 2018 reveals that the m
 * Overall Performance: The company faced consistent insurance losses over the period, with a total of $9.2bn in claims against only $4.0bn in total premiums across 2014-2018.
 * This resulted in an average premium-to-claim ratio of 44%, indicating the company was paying out far more in claims than it collected in premiums.
 * Premium to Claim Ratio Trend: The premium-to-claim ratio (which appears to be displayed inversely in the provided data as 'Premium to Claim Ratio' at 44%) significantly worsened over the years.
+
+<img src="Intro.png" height="500" width="700">
+
 * The bar chart shows the ratio of claims to premiums growing steadily, from under 50% in 2014 to well over 200% by the first two quarters of 2018, demonstrating a clear unprofitability trend.
 * Average Values: The average claim amount of $18K was more than double the average premium of $8K.
 
