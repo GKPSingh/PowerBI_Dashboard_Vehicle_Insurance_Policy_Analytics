@@ -3,67 +3,46 @@ This project is a Power BI data analytics dashboard designed to analyze insuranc
 
 The dashboard helps stakeholders:
 
-Monitor overall insurance performance
-
-Compare premiums vs claims
-
-Understand policy holder distribution
-
-Identify risk and profitability trends
+* Monitor overall insurance performance
+* Compare premiums vs claims
+* Understand policy holder distribution
+* Identify risk and profitability trends
 
 ### 🎯 Objectives
 
-Analyze insurance premiums and claims
-
-Track policy holder metrics
-
-Provide clear KPIs for quick insights
-
-Enable interactive filtering and drill-downs
-
-Present data in an accessible and portfolio-ready format
+* Analyze insurance premiums and claims
+* Track policy holder metrics
+* Provide clear KPIs for quick insights
+* Enable interactive filtering and drill-downs
+* Present data in an accessible and portfolio-ready format
 
 ### 📁 File Details
 
-Tool Used: Microsoft Power BI Desktop
-
-File Name: Vehicle_Insurance_Policy_Dashboard.pbix
-
-Theme: AccessibleCityPark
-
-Pages Included:
-
-Main Report Page
-
-Duplicate Report Page (layout or comparison)
-
-Tooltip Page for enhanced interactivity
+* Tool Used: Microsoft Power BI Desktop
+* File Name: Vehicle_Insurance_Policy_Dashboard.pbix
+* Pages Included:
+* Main Report Page
+* Duplicate Report Page (layout or comparison)
+* Tooltip Page for enhanced interactivity
 
 ### 📌 Key KPIs
 
 The dashboard highlights the following core metrics:
 
-Average Premium – Mean premium value across policies
-
-Average Claim – Mean claim amount
-
-Policy Holders – Total number of insured customers
-
-Premium-to-Claim Ratio – Indicator of profitability and risk
+* Average Premium – Mean premium value across policies
+* Average Claim – Mean claim amount
+* Policy Holders – Total number of insured customers
+* Premium-to-Claim Ratio – Indicator of profitability and risk
 
 These KPIs provide an instant snapshot of insurance performance.
 
 ### 📊 Visualizations Included
 
-KPI Cards for headline metrics
-
-Charts comparing Premium vs Claims
-
-Policy holder distribution visuals
-
-Tooltip-enabled visuals for contextual insights
-
-Consistent icons and images for better UX
+* KPI Cards for headline metrics
+* Charts comparing Premium vs Claims
+* Policy holder distribution visuals
+* Tooltip-enabled visuals for contextual insights
+* Consistent icons and images for better UX
 
 ### 🧠 Data Model & Logic (High-Level)
 
