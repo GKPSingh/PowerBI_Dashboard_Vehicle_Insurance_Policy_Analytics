@@ -46,44 +46,30 @@ These KPIs provide an instant snapshot of insurance performance.
 
 ### 🧠 Data Model & Logic (High-Level)
 
-Data is modeled to support aggregations and comparisons
-
-DAX measures are used for:
-
-Averages (Premium, Claim)
-
-Ratios and performance indicators
-
-Filters and slicers allow users to interact dynamically with the data
+* Data is modeled to support aggregations and comparisons
+* DAX measures are used for:
+    Averages (Premium, Claim)
+    Ratios and performance indicators
+* Filters and slicers allow users to interact dynamically with the data
 
 ### 💡 Business Use Cases
 
-Insurance performance monitoring
-
-Risk and profitability analysis
-
-Management reporting
-
-Data-driven decision-making
+* Insurance performance monitoring
+* Risk and profitability analysis
+* Management reporting
+* Data-driven decision-making
 
 ### 🚀 Skills Demonstrated
 
-Power BI report development
-
-Data modeling and relationships
-
-DAX calculations
-
-KPI design and storytelling
-
-Dashboard UX/UI best practices
+* Power BI report development
+* Data modeling and relationships
+* DAX calculations
+* KPI design and storytelling
+* Dashboard UX/UI best practices
 
 ### 🔮 Future Enhancements
 
-Add trend analysis over time
-
-Include claim severity and frequency metrics
-
-Improve drill-through functionality
-
-Optimize DAX for large datasets
+* Add trend analysis over time
+* Include claim severity and frequency metrics
+* Improve drill-through functionality
+* Optimize DAX for large datasets
