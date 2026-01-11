@@ -1,6 +1,6 @@
 # PowerBI_Dashboard_Vehicle_Insurance_Policy_Analytics
 The analysis of EIC's financial performance from 2014 to 2018 reveals that the motor insurer experienced significant and consistent insurance losses, ultimately leading to its closure in 2019.
-
+//// <img src="https://github.com/GKPSingh/Healthcare_Premium_Prediction/blob/main/Images/hpp.jpg" height=500px width=700px> ///
 
 ### Key Financial Findings
 Overall Performance: The company faced consistent insurance losses over the period, with a total of $9.2bn in claims against only $4.0bn in total premiums across 2014-2018. This resulted in an average premium-to-claim ratio of 44%, indicating the company was paying out far more in claims than it collected in premiums.
