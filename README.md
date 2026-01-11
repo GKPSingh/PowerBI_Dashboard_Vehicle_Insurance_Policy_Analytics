@@ -99,7 +99,7 @@ KPI design and storytelling
 
 Dashboard UX/UI best practices
 
-###🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 Add trend analysis over time
 
