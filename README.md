@@ -18,7 +18,7 @@ The analysis of EIC's financial performance from 2014 to 2018 reveals that the m
 The accumulation of these factors led to a situation where the insurer was consistently unprofitable, necessitating the decision to close the company in 2019.
 
 
-The dashboard helps stakeholders:
+#### The dashboard helps stakeholders:
 
 * Monitor overall insurance performance
 * Compare premiums vs claims
