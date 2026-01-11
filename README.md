@@ -13,7 +13,8 @@ The analysis of EIC's financial performance from 2014 to 2018 reveals that the m
 * Top Makes: Toyota and Isuzu were the most frequent vehicle makes insured.
 * Profitable Segments: While most segments were unprofitable (with ratios well over 100%), certain usages like Ambulance, Car Hires, Fare Paying Passengers, and General Cartage were relatively more profitable in earlier years, but their profitability eroded by 2018.
 * The "Private" use category, which accounted for the largest share of policies opened, was consistently highly unprofitable.
-Outcome
+
+### Outcome
 The accumulation of these factors led to a situation where the insurer was consistently unprofitable, necessitating the decision to close the company in 2019.
 
 
