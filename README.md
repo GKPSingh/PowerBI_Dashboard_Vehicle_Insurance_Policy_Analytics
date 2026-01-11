@@ -1,5 +1,17 @@
 # PowerBI_Dashboard_Vehicle_Insurance_Policy_Analytics
-This project is a Power BI data analytics dashboard designed to analyze insurance policy data, focusing on premiums, claims, and policy holders. The report provides high-level KPIs along with interactive visuals to support business decision-making in the insurance domain.
+The analysis of EIC's financial performance from 2014 to 2018 reveals that the motor insurer experienced significant and consistent insurance losses, ultimately leading to its closure in 2019.
+//// <img src="https://github.com/GKPSingh/ height=500px width=700px> ///
+
+### Key Financial Findings
+Overall Performance: The company faced consistent insurance losses over the period, with a total of $9.2bn in claims against only $4.0bn in total premiums across 2014-2018. This resulted in an average premium-to-claim ratio of 44%, indicating the company was paying out far more in claims than it collected in premiums.
+Premium to Claim Ratio Trend: The premium-to-claim ratio (which appears to be displayed inversely in the provided data as 'Premium to Claim Ratio' at 44%) significantly worsened over the years. The bar chart shows the ratio of claims to premiums growing steadily, from under 50% in 2014 to well over 200% by the first two quarters of 2018, demonstrating a clear unprofitability trend.
+Average Values: The average claim amount of $18K was more than double the average premium of $8K.
+Business and Policy Demographics
+Policy Mix: The bulk of EIC's policies were for automobiles, trucks, pick-ups, and motor-cycles.
+Top Makes: Toyota and Isuzu were the most frequent vehicle makes insured.
+Profitable Segments: While most segments were unprofitable (with ratios well over 100%), certain usages like Ambulance, Car Hires, Fare Paying Passengers, and General Cartage were relatively more profitable in earlier years, but their profitability eroded by 2018 (pp. 2-4). The "Private" use category, which accounted for the largest share of policies opened, was consistently highly unprofitable.
+Outcome
+The accumulation of these factors led to a situation where the insurer was consistently unprofitable, necessitating the decision to close the company in 2019
 
 The dashboard helps stakeholders:
 
