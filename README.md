@@ -98,3 +98,13 @@ DAX calculations
 KPI design and storytelling
 
 Dashboard UX/UI best practices
+
+###🔮 Future Enhancements
+
+Add trend analysis over time
+
+Include claim severity and frequency metrics
+
+Improve drill-through functionality
+
+Optimize DAX for large datasets
