@@ -8,6 +8,10 @@ The analysis of EIC's financial performance from 2014 to 2018 reveals that the m
 
 <img src="Intro.png" height="400" width="500">
 
+<img src="2014.png" height="400" width="500">
+
+<img src="2018.png" height="400" width="500">
+
 * The bar chart shows the ratio of claims to premiums growing steadily, from under 50% in 2014 to well over 200% by the first two quarters of 2018, demonstrating a clear unprofitability trend.
 * Average Values: The average claim amount of $18K was more than double the average premium of $8K.
 
