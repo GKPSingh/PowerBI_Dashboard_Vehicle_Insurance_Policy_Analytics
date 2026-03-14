@@ -12,7 +12,7 @@ The analysis of EIC's financial performance from 2014 to 2018 reveals that the m
 
 <img src="2014.png" height="400" width="500">
 
-* Average Values: The average claim amount of $18K was more than double the average premium of $8K.
+* Average Values: The average claim amount of $23K was more than double the average premium of $8K.
 
 <img src="2018.png" height="400" width="500">
 
